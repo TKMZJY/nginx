@@ -1,0 +1,2 @@
+nginx -s stop // 关闭
+start nginx  // 启动
